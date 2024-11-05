@@ -1,6 +1,6 @@
 # quickbuy
 
-A new Flutter project.
+Apps Overview Video: https://drive.google.com/file/d/1ktMPwVDkc8OCBDskIAwPazzpIruZ2pjK/view?usp=drive_link
 Title:
 QuickBuy - Simplified Online Shopping
 
